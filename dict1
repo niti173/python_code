@@ -1,0 +1,8 @@
+D={}
+n=int(input("enter no of element"))
+for i in range(n):
+    k=int(input("enter key))
+    v=input("enter value"))
+    D[k]=v
+ print(D)
+ 
